@@ -65,6 +65,12 @@ Após a vítima se conectar ao site phishing, ela irá se deparar com a Tela de 
 
 ![tela](https://github.com/user-attachments/assets/fd493b8a-bdfd-407f-9a4f-1f141f70a006)
 
+## Redirecionamento
+![fake](https://github.com/user-attachments/assets/137eb1dc-5dc0-49cf-b53c-5e3a58f1258c)
+
+## Resultado na tela do Atacante
+
+
 
 
 
